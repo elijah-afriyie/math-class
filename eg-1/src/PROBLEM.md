@@ -1,0 +1,1 @@
+How can you use various methods from the `Math` class in Java to perform mathematical operations like finding the maximum and minimum values, calculating absolute values, square roots, rounding, powers, exponentials, and logarithms?
